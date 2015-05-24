@@ -1,5 +1,4 @@
-# practice_of_c
-大四下的程式
+
 /* ch11 linklist.c */
 
 #include <stdio.h>
